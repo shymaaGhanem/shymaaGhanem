@@ -5,6 +5,7 @@
 - 💬Ask me about Frontend / Web Development 
 - 📫 How to reach me www.linkedin.com/in/shymaa-ghanem-121b82146
 - 💬 Email:shimaa44ghanem@gmail.com
+- <p>Languge and Tools</p>
 
 <!---
 shymaaGhanem/shymaaGhanem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
