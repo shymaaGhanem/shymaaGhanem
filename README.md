@@ -4,6 +4,7 @@
 - 🤝 I’m looking for help with React & React native, angular,.....
 - 💬Ask me about Frontend / Web Development 
 - 📫 How to reach me www.linkedin.com/in/shymaa-ghanem-121b82146
+- 💬 Email:shimaa44ghanem@gmail.com
 
 <!---
 shymaaGhanem/shymaaGhanem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
